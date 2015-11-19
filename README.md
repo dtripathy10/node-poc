@@ -4,10 +4,13 @@
 
 #### Resource
 ----
++ [Node.js Addons](https://nodejs.org/api/addons.html)
+
 + [Node.js IN ACTION](http://easywebtech.net/download/tech/books/javascript/Nodejs%20in%20Action.pdf)
 
 + [Node.js - DZone](https://dzone.com/refcardz/nodejs#refcard-download-social-buttons-display)
 
++ [understanding-the-node-js-event-loop](http://blog.mixu.net/2011/02/01/understanding-the-node-js-event-loop/)
 
 #### Web Developemnt (Backend)
 ----
@@ -130,7 +133,18 @@
 
 ##### Others
 
-+ https://smacss.com/book/type-state 
++ https://smacss.com/book/type-state
+
++ https://scotch.io/tutorials/how-to-deploy-a-node-js-app-to-heroku
+
+##### Developemnt Enviroment
+
++ install iterm2
+
++ https://github.com/robbyrussell/oh-my-zsh
+
++ http://coolestguidesontheplanet.com/make-an-alias-in-bash-shell-in-os-x-terminal/
+
 
 
 
