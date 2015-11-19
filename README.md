@@ -1,18 +1,16 @@
 #### node.js poc
 ----
-
 + integration with mongodb
-
 
 #### Resource
 ----
-
 + [Node.js IN ACTION](http://easywebtech.net/download/tech/books/javascript/Nodejs%20in%20Action.pdf)
 
 + [Node.js - DZone](https://dzone.com/refcardz/nodejs#refcard-download-social-buttons-display)
 
 #### Tooling
 -----
++ http://tooling.github.io/book-of-modern-frontend-tooling/index.html
 
 #### Scaffolding & Build
 ----
