@@ -13,6 +13,12 @@
     "jasmine": "^2.3.2"
   },
   "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-uglify" : "*",
+    "grunt-contrib-jshint" : "*",
+    "grunt-contrib-watch" : "*",
+    "grunt-contrib-concat" : "*",
     "jasmine-core": "^2.3.4",
     "karma": "^0.13.15",
     "karma-chrome-launcher": "^0.2.1",

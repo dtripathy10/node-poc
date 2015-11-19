@@ -14,6 +14,20 @@
 #### Tooling
 -----
 
+#### Scaffolding & Build
+----
++  https://www.airpair.com/node.js/posts/top-10-mistakes-node-developers-make
+
+###### Grunt
++  http://gruntjs.com/sample-gruntfile
+
++  http://www.smashingmagazine.com/2013/10/get-up-running-grunt/
+
+###### Yeoman
+
++  http://yeoman.io/learning/
+
+
 #### Testing
 -----
 + http://code.tutsplus.com/tutorials/testing-in-nodejs--net-35018 
@@ -33,14 +47,7 @@
 ###### chaijs
  + http://chaijs.com/ 
 
- 
-+ https://www.airpair.com/node.js/posts/top-10-mistakes-node-developers-make
-
-+ http://www.smashingmagazine.com/2013/10/get-up-running-grunt/ 
-
-+ http://yeoman.io/learning/ 
-
-
+----
 
 ##### AngularJS
 + https://scotch.io/tutorials/angularjs-best-practices-directory-structure
