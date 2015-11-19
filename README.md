@@ -26,6 +26,13 @@
 +  http://yeoman.io/learning/
 
 
+###### bower
+
++ http://bower.io/
+
++ http://blog.teamtreehouse.com/getting-started-bower
+
+
 #### Testing
 -----
 + http://code.tutsplus.com/tutorials/testing-in-nodejs--net-35018 
