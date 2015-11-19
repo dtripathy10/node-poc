@@ -12,7 +12,7 @@
 
 + [understanding-the-node-js-event-loop](http://blog.mixu.net/2011/02/01/understanding-the-node-js-event-loop/)
 
-#### Web Developemnt (Backend)
+#### #### Javascript Backend Framework
 ----
 
 ##### express
@@ -93,6 +93,13 @@
 + http://blog.teamtreehouse.com/getting-started-bower
 
 
+##### Developemnt Enviroment
++ install iterm2
+
++ https://github.com/robbyrussell/oh-my-zsh
+
++ http://coolestguidesontheplanet.com/make-an-alias-in-bash-shell-in-os-x-terminal/
+
 #### Testing
 -----
 + http://code.tutsplus.com/tutorials/testing-in-nodejs--net-35018 
@@ -112,8 +119,8 @@
 ###### chaijs
  + http://chaijs.com/ 
 
+#### Javascript Frontend Framework
 ----
-
 ##### AngularJS
 + https://scotch.io/tutorials/angularjs-best-practices-directory-structure
 
@@ -131,20 +138,45 @@
 
 + http://www.tuesdaydeveloper.com/2013/06/angularjs-testing-with-karma-and-jasmine/
 
-##### Others
+##### EmberJS
++ http://emberjs.com/
 
-+ https://smacss.com/book/type-state
++ http://ember.vicramon.com/
 
++ http://williamhart.info/an-emberjs-beginners-tutorial/
+
++ https://www.quora.com/What-is-the-best-way-to-learn-Ember-js
+
++ https://www.airpair.com/javascript/emberjs-using-ember-cli
+
++ http://www.tutorialspoint.com/emberjs/
+
++ http://blog.yodersolutions.com/why-i-recommend-emberjs-over-angularjs/
+
+##### reactJS
++ https://scotch.io/tutorials/learning-react-getting-started-and-concepts
+
++ https://facebook.github.io/flux/
+
++ https://facebook.github.io/react/
+
++ http://ryanclark.me/getting-started-with-flux/
+
++ https://blog.risingstack.com/the-react-way-getting-started-tutorial/
+
+##### Backbone.js
++ http://backbonejs.org/
+
++ http://addyosmani.github.io/backbone-fundamentals/
+
+##### Miscellaneous
 + https://scotch.io/tutorials/how-to-deploy-a-node-js-app-to-heroku
 
-##### Developemnt Enviroment
++ http://todomvc.com/
 
-+ install iterm2
++ https://www.meteor.com/
 
-+ https://github.com/robbyrussell/oh-my-zsh
++ http://ionicframework.com/
 
-+ http://coolestguidesontheplanet.com/make-an-alias-in-bash-shell-in-os-x-terminal/
-
-
-
++ https://smacss.com/book/type-state
 
