@@ -12,10 +12,10 @@
 
 + [understanding-the-node-js-event-loop](http://blog.mixu.net/2011/02/01/understanding-the-node-js-event-loop/)
 
-#### #### Javascript Backend Framework
+#### Javascript Backend Framework
 ----
 
-##### express
+###### express
 + https://quickleft.com/blog/getting-started-with-express-in-node/ 
 
 + http://code.tutsplus.com/tutorials/restful-api-design-with-nodejs-restify--cms-22637 
@@ -26,14 +26,14 @@
 
 + http://webapplog.com/tutorial-node-js-and-mongodb-json-rest-api-server-with-mongoskin-and-express-js/ 
 
-##### Sails.js
+###### Sails.js
 + http://code.tutsplus.com/tutorials/introduction-to-sailsjs--net-35390
 
 + https://scotch.io/tutorials/build-a-todo-app-using-sailsjs-and-angularjs
 
 + http://sailsjs.org/get-started
 
-##### Rest Client
+###### Rest Client
 + http://www.sitepoint.com/making-http-requests-in-node-js/
 
 + http://stackoverflow.com/questions/9577611/http-get-request-in-node-js-express 
@@ -43,7 +43,7 @@
 + https://github.com/visionmedia/superagent 
 
 
-##### Other Library
+###### Other Library
 + http://stackoverflow.com/questions/23074901/express-making-multiple-http-requests-asynchronously 
 
 + http://stackoverflow.com/questions/12045894/node-js-multiple-http-requests 
@@ -53,7 +53,7 @@
 + https://codeforgeek.com/2015/01/nodejs-mysql-tutorial/ 
 
 
-##### Project Structure
+###### Project Structure
 + https://scotch.io/tutorials/angularjs-best-practices-directory-structure
 
 + https://github.com/JeremyMorgan/Angular-Kickstart 
@@ -68,7 +68,7 @@
 -----
 + http://tooling.github.io/book-of-modern-frontend-tooling/index.html
 
-#### Scaffolding, Dependency Management & Build
+###### Scaffolding, Dependency Management & Build
 ----
 +  https://www.airpair.com/node.js/posts/top-10-mistakes-node-developers-make
 
@@ -93,7 +93,7 @@
 + http://blog.teamtreehouse.com/getting-started-bower
 
 
-##### Developemnt Enviroment
+###### Developemnt Enviroment
 + install iterm2
 
 + https://github.com/robbyrussell/oh-my-zsh
@@ -121,7 +121,7 @@
 
 #### Javascript Frontend Framework
 ----
-##### AngularJS
+###### AngularJS
 + https://scotch.io/tutorials/angularjs-best-practices-directory-structure
 
 + https://github.com/JeremyMorgan/Angular-Kickstart
@@ -138,7 +138,7 @@
 
 + http://www.tuesdaydeveloper.com/2013/06/angularjs-testing-with-karma-and-jasmine/
 
-##### EmberJS
+###### EmberJS
 + http://emberjs.com/
 
 + http://ember.vicramon.com/
@@ -153,7 +153,7 @@
 
 + http://blog.yodersolutions.com/why-i-recommend-emberjs-over-angularjs/
 
-##### reactJS
+###### reactJS
 + https://scotch.io/tutorials/learning-react-getting-started-and-concepts
 
 + https://facebook.github.io/flux/
@@ -164,12 +164,13 @@
 
 + https://blog.risingstack.com/the-react-way-getting-started-tutorial/
 
-##### Backbone.js
+###### Backbone.js
 + http://backbonejs.org/
 
 + http://addyosmani.github.io/backbone-fundamentals/
 
 ##### Miscellaneous
+----
 + https://scotch.io/tutorials/how-to-deploy-a-node-js-app-to-heroku
 
 + http://todomvc.com/
