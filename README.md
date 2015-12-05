@@ -47,6 +47,11 @@
 + [Staying Sane With Asynchronous Programming: Promises and Generators](http://colintoh.com/blog/staying-sane-with-asynchronous-programming-promises-and-generators)
 + [q](https://github.com/kriskowal/q)
 
+###### Stream
++ http://www.sitepoint.com/basics-node-js-streams/
++ http://ejohn.org/blog/node-js-stream-playground/
++ https://github.com/substack/stream-handbook
+
 ###### Other Library
 + http://stackoverflow.com/questions/23074901/express-making-multiple-http-requests-asynchronously 
 
