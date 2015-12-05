@@ -1,7 +1,3 @@
-###### Promise
------
-+ [Staying Sane With Asynchronous Programming: Promises and Generators](http://colintoh.com/blog/staying-sane-with-asynchronous-programming-promises-and-generators)
-+ [q](https://github.com/kriskowal/q)
 
 #### node.js poc
 ----
@@ -186,3 +182,6 @@
 
 + https://smacss.com/book/type-state
 
+###### Promise
++ [Staying Sane With Asynchronous Programming: Promises and Generators](http://colintoh.com/blog/staying-sane-with-asynchronous-programming-promises-and-generators)
++ [q](https://github.com/kriskowal/q)
