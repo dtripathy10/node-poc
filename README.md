@@ -43,6 +43,9 @@
 
 + https://github.com/visionmedia/superagent 
 
+###### Promise
++ [Staying Sane With Asynchronous Programming: Promises and Generators](http://colintoh.com/blog/staying-sane-with-asynchronous-programming-promises-and-generators)
++ [q](https://github.com/kriskowal/q)
 
 ###### Other Library
 + http://stackoverflow.com/questions/23074901/express-making-multiple-http-requests-asynchronously 
@@ -182,6 +185,3 @@
 
 + https://smacss.com/book/type-state
 
-###### Promise
-+ [Staying Sane With Asynchronous Programming: Promises and Generators](http://colintoh.com/blog/staying-sane-with-asynchronous-programming-promises-and-generators)
-+ [q](https://github.com/kriskowal/q)
