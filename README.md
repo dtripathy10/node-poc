@@ -20,7 +20,10 @@
 
 + https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4
 
-+ http://webapplog.com/tutorial-node-js-and-mongodb-json-rest-api-server-with-mongoskin-and-express-js/ 
++ http://webapplog.com/tutorial-node-js-and-mongodb-json-rest-api-server-with-mongoskin-and-express-js/
+
++ http://mean.io/#!/ 
+
 
 ###### Sails.js
 + http://code.tutsplus.com/tutorials/introduction-to-sailsjs--net-35390
