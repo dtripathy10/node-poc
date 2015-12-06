@@ -1,8 +1,3 @@
-
-#### node.js poc
-----
-+ integration with mongodb
-
 #### Resource
 ----
 + [Node.js Addons](https://nodejs.org/api/addons.html)
