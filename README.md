@@ -55,6 +55,34 @@
  
 + https://github.com/substack/stream-handbook
 
+##### mongoose
+
++ http://adrianmejia.com/blog/2014/10/01/creating-a-restful-api-tutorial-with-nodejs-and-mongodb/
+
++ https://scotch.io/tutorials/using-mongoosejs-in-node-js-and-mongodb-applications
+
++ https://regex101.com/#javascript
+
++ http://mongoosejs.com/docs/validation.html
+
++ http://mongoosejs.com/docs/api.html#document-js
+
++ https://github.com/Automattic/mongoose
+
++ http://webapplog.com/express-js-and-mongoose-example-building-hackhall/
+
+
+##### Parse
+
++ http://www.jonathanbroquist.com/integrating-parse-data-with-ng-model-in-angularjs/
+
++ http://tumba.solutions/blog/angularjs-and-parse
+
++ http://code.tutsplus.com/tutorials/getting-started-with-parse--net-28000
+
++ http://coenraets.org/blog/2013/04/sample-app-storing-your-application-data-in-the-cloud-with-parse-com-and-the-javascript-sdk/
+
+
 ###### Other Library
 + http://stackoverflow.com/questions/23074901/express-making-multiple-http-requests-asynchronously 
 
