@@ -138,24 +138,6 @@
 
 + http://coolestguidesontheplanet.com/make-an-alias-in-bash-shell-in-os-x-terminal/
 
-#### Testing
------
-+ http://code.tutsplus.com/tutorials/testing-in-nodejs--net-35018 
-
-###### Jasmine
-+ http://jasmine.github.io/
-
-+ http://jasmine.github.io/2.1/node.html
-
-+ http://jasmine.github.io/2.1/introduction.html 
-
-###### Mochajs
- + https://mochajs.org/
-
- + http://webapplog.com/tdd/
-
-###### chaijs
- + http://chaijs.com/ 
 
 #### Javascript Frontend Framework
 ----
@@ -217,15 +199,41 @@
 
 + http://ionicframework.com/
 
++ https://smacss.com/book/type-state
+
+
+#### Testing
+-----
++ http://code.tutsplus.com/tutorials/testing-in-nodejs--net-35018 
+
+
+###### Mochajs
+ + https://mochajs.org/
+
+ + http://webapplog.com/tdd/
+ 
+ + https://github.com/mochajs/mocha/wiki
+ 
+ + https://www.youtube.com/watch?v=Q8Jl85FJz4E&list=PLw5h0DiJ-9PAdZwGJCYb7a9P2mJHayQQ3 
+
+###### chaijs
+ + http://chaijs.com/
+ 
+###### Selenium
 + https://github.com/vvo/selenium-standalone
 
 + https://github.com/webdriverio/webdriverio/
+
+
+###### Jasmine
++ http://jasmine.github.io/
+
++ http://jasmine.github.io/2.1/node.html
+
++ http://jasmine.github.io/2.1/introduction.html
 
 + https://github.com/cucumber/cucumber-js
 
 + https://github.com/ariya/phantomjs
 
 + https://github.com/angular/protractor
-
-+ https://smacss.com/book/type-state
-
