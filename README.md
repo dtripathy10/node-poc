@@ -119,8 +119,7 @@
 
 + http://addyosmani.github.io/backbone-fundamentals/
 
-##### Others
-----
+###### Others
 + http://stackoverflow.com/questions/23074901/express-making-multiple-http-requests-asynchronously 
 
 + http://stackoverflow.com/questions/12045894/node-js-multiple-http-requests 
