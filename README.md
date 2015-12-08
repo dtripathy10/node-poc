@@ -232,6 +232,16 @@
 + http://jasmine.github.io/2.1/node.html
 
 + http://jasmine.github.io/2.1/introduction.html
+ 
+###### Mochajs or Jasmine
+
++ https://lostechies.com/derickbailey/2012/11/01/javascript-unit-tests-jasmine-vs-mocha/
+
++ http://thejsguy.com/2015/01/12/jasmine-vs-mocha-chai-and-sinon.html
+
+
+
+
 
 + https://github.com/cucumber/cucumber-js
 
