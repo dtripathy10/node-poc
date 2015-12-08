@@ -190,8 +190,6 @@
 -----
 + http://tooling.github.io/book-of-modern-frontend-tooling/index.html
 
-###### Scaffolding, Dependency Management & Build
-----
 +  https://www.airpair.com/node.js/posts/top-10-mistakes-node-developers-make
 
 ###### Grunt
