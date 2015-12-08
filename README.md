@@ -1,14 +1,5 @@
-#### Resource
-----
-+ [Node.js Addons](https://nodejs.org/api/addons.html)
 
-+ [Node.js IN ACTION](http://easywebtech.net/download/tech/books/javascript/Nodejs%20in%20Action.pdf)
-
-+ [Node.js - DZone](https://dzone.com/refcardz/nodejs#refcard-download-social-buttons-display)
-
-+ [understanding-the-node-js-event-loop](http://blog.mixu.net/2011/02/01/understanding-the-node-js-event-loop/)
-
-#### Javascript Backend Framework
+#### Frameworks/Libraries/APIs
 ----
 
 ###### express
@@ -23,7 +14,6 @@
 + http://webapplog.com/tutorial-node-js-and-mongodb-json-rest-api-server-with-mongoskin-and-express-js/
 
 + http://mean.io/#!/ 
-
 
 ###### Sails.js
 + http://code.tutsplus.com/tutorials/introduction-to-sailsjs--net-35390
@@ -81,66 +71,6 @@
 + http://coenraets.org/blog/2013/04/sample-app-storing-your-application-data-in-the-cloud-with-parse-com-and-the-javascript-sdk/
 
 
-###### Other Library
-+ http://stackoverflow.com/questions/23074901/express-making-multiple-http-requests-asynchronously 
-
-+ http://stackoverflow.com/questions/12045894/node-js-multiple-http-requests 
-
-+ http://justinklemm.com/node-js-async-tutorial/ 
-
-+ https://codeforgeek.com/2015/01/nodejs-mysql-tutorial/ 
-
-
-###### Project Structure
-+ https://scotch.io/tutorials/angularjs-best-practices-directory-structure
-
-+ https://github.com/JeremyMorgan/Angular-Kickstart 
-
-+ https://github.com/mgechev/angularjs-style-guide 
-
-+ https://scotch.io/tutorials/node-and-angular-to-do-app-application-organization-and-structure 
-
-+ http://start.jcolemorrison.com/how-i-setup-angular-node-projects/ 
-
-#### Tooling
------
-+ http://tooling.github.io/book-of-modern-frontend-tooling/index.html
-
-###### Scaffolding, Dependency Management & Build
-----
-+  https://www.airpair.com/node.js/posts/top-10-mistakes-node-developers-make
-
-###### Grunt
-+  http://gruntjs.com/sample-gruntfile
-
-+  http://www.smashingmagazine.com/2013/10/get-up-running-grunt/
-
-###### Yeoman
-
-+  http://yeoman.io/learning/
-
-###### npm
-+ https://www.npmjs.com/
-
-+ https://coderwall.com/p/isrcca/install-npm-packages-with-save-or-save-dev 
-
-###### bower
-
-+ http://bower.io/
-
-+ http://blog.teamtreehouse.com/getting-started-bower
-
-
-###### Developemnt Enviroment
-+ install iterm2
-
-+ https://github.com/robbyrussell/oh-my-zsh
-
-+ http://coolestguidesontheplanet.com/make-an-alias-in-bash-shell-in-os-x-terminal/
-
-
-#### Javascript Frontend Framework
-----
 ###### AngularJS
 + https://scotch.io/tutorials/angularjs-best-practices-directory-structure
 
@@ -189,8 +119,16 @@
 
 + http://addyosmani.github.io/backbone-fundamentals/
 
-##### Miscellaneous
+##### Others
 ----
++ http://stackoverflow.com/questions/23074901/express-making-multiple-http-requests-asynchronously 
+
++ http://stackoverflow.com/questions/12045894/node-js-multiple-http-requests 
+
++ http://justinklemm.com/node-js-async-tutorial/ 
+
++ https://codeforgeek.com/2015/01/nodejs-mysql-tutorial/ 
+
 + https://scotch.io/tutorials/how-to-deploy-a-node-js-app-to-heroku
 
 + http://todomvc.com/
@@ -239,12 +177,71 @@
 
 + http://thejsguy.com/2015/01/12/jasmine-vs-mocha-chai-and-sinon.html
 
-
-
-
-
+###### Others
 + https://github.com/cucumber/cucumber-js
 
 + https://github.com/ariya/phantomjs
 
++ https://www.youtube.com/watch?v=OqEcn_6GBDI
+
 + https://github.com/angular/protractor
+
+
+#### Tooling
+-----
++ http://tooling.github.io/book-of-modern-frontend-tooling/index.html
+
+###### Scaffolding, Dependency Management & Build
+----
++  https://www.airpair.com/node.js/posts/top-10-mistakes-node-developers-make
+
+###### Grunt
++  http://gruntjs.com/sample-gruntfile
+
++  http://www.smashingmagazine.com/2013/10/get-up-running-grunt/
+
+###### Yeoman
+
++  http://yeoman.io/learning/
+
+###### npm
++ https://www.npmjs.com/
+
++ https://coderwall.com/p/isrcca/install-npm-packages-with-save-or-save-dev 
+
+###### bower
+
++ http://bower.io/
+
++ http://blog.teamtreehouse.com/getting-started-bower
+
+
+###### Developemnt Enviroment
++ install iterm2
+
++ https://github.com/robbyrussell/oh-my-zsh
+
++ http://coolestguidesontheplanet.com/make-an-alias-in-bash-shell-in-os-x-terminal/
+
+###### Project Structure
++ https://scotch.io/tutorials/angularjs-best-practices-directory-structure
+
++ https://github.com/JeremyMorgan/Angular-Kickstart 
+
++ https://github.com/mgechev/angularjs-style-guide 
+
++ https://scotch.io/tutorials/node-and-angular-to-do-app-application-organization-and-structure 
+
++ http://start.jcolemorrison.com/how-i-setup-angular-node-projects/ 
+
+#### Resource
+----
++ [Node.js Addons](https://nodejs.org/api/addons.html)
+
++ [Node.js IN ACTION](http://easywebtech.net/download/tech/books/javascript/Nodejs%20in%20Action.pdf)
+
++ [Node.js - DZone](https://dzone.com/refcardz/nodejs#refcard-download-social-buttons-display)
+
++ [understanding-the-node-js-event-loop](http://blog.mixu.net/2011/02/01/understanding-the-node-js-event-loop/)
+
+
