@@ -105,6 +105,8 @@
 
 + http://handlebarsjs.com/ 
 
++ http://www.smashingmagazine.com/2013/11/an-in-depth-introduction-to-ember-js/
+
 ###### reactJS
 + https://scotch.io/tutorials/learning-react-getting-started-and-concepts
 
