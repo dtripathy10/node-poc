@@ -109,17 +109,6 @@
 
 + http://emberwatch.com/
 
-###### reactJS
-+ https://scotch.io/tutorials/learning-react-getting-started-and-concepts
-
-+ https://facebook.github.io/flux/
-
-+ https://facebook.github.io/react/
-
-+ http://ryanclark.me/getting-started-with-flux/
-
-+ https://blog.risingstack.com/the-react-way-getting-started-tutorial/
-
 ###### Backbone.js
 + http://backbonejs.org/
 
