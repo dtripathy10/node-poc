@@ -104,8 +104,6 @@
 
 + http://justinklemm.com/node-js-async-tutorial/ 
 
-+ https://codeforgeek.com/2015/01/nodejs-mysql-tutorial/ 
-
 + https://scotch.io/tutorials/how-to-deploy-a-node-js-app-to-heroku
 
 + http://todomvc.com/
