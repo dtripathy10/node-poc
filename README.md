@@ -2,18 +2,6 @@
 #### Frameworks/Libraries/APIs
 ----
 
-###### express
-+ https://quickleft.com/blog/getting-started-with-express-in-node/ 
-
-+ http://code.tutsplus.com/tutorials/restful-api-design-with-nodejs-restify--cms-22637 
-
-+ https://scotch.io/tutorials/setting-up-a-mean-stack-single-page-application 
-
-+ https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4
-
-+ http://webapplog.com/tutorial-node-js-and-mongodb-json-rest-api-server-with-mongoskin-and-express-js/
-
-+ http://mean.io/#!/ 
 
 ###### Sails.js
 + http://code.tutsplus.com/tutorials/introduction-to-sailsjs--net-35390
