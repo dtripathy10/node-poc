@@ -2,7 +2,6 @@
 #### Frameworks/Libraries/APIs
 ----
 
-
 ###### Sails.js
 + http://code.tutsplus.com/tutorials/introduction-to-sailsjs--net-35390
 
@@ -70,50 +69,6 @@
 
 + https://smacss.com/book/type-state
 
-#### Tooling
------
-+ http://tooling.github.io/book-of-modern-frontend-tooling/index.html
-
-+  https://www.airpair.com/node.js/posts/top-10-mistakes-node-developers-make
-
-###### Grunt
-+  http://gruntjs.com/sample-gruntfile
-
-+  http://www.smashingmagazine.com/2013/10/get-up-running-grunt/
-
-###### Yeoman
-
-+  http://yeoman.io/learning/
-
-###### npm
-+ https://www.npmjs.com/
-
-+ https://coderwall.com/p/isrcca/install-npm-packages-with-save-or-save-dev 
-
-###### bower
-
-+ http://bower.io/
-
-+ http://blog.teamtreehouse.com/getting-started-bower
-
-
-###### Developemnt Enviroment
-+ install iterm2
-
-+ https://github.com/robbyrussell/oh-my-zsh
-
-+ http://coolestguidesontheplanet.com/make-an-alias-in-bash-shell-in-os-x-terminal/
-
-###### Project Structure
-+ https://scotch.io/tutorials/angularjs-best-practices-directory-structure
-
-+ https://github.com/JeremyMorgan/Angular-Kickstart 
-
-+ https://github.com/mgechev/angularjs-style-guide 
-
-+ https://scotch.io/tutorials/node-and-angular-to-do-app-application-organization-and-structure 
-
-+ http://start.jcolemorrison.com/how-i-setup-angular-node-projects/ 
 
 #### Resource
 ----
