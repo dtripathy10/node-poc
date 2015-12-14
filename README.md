@@ -10,38 +10,6 @@
 
 + http://sailsjs.org/get-started
 
-###### Rest Client
-+ http://www.sitepoint.com/making-http-requests-in-node-js/
-
-+ http://stackoverflow.com/questions/9577611/http-get-request-in-node-js-express 
-
-+ https://visionmedia.github.io/superagent/ 
-
-+ https://github.com/visionmedia/superagent 
-
-###### Promise
-+ [Staying Sane With Asynchronous Programming: Promises and Generators](http://colintoh.com/blog/staying-sane-with-asynchronous-programming-promises-and-generators)
-
-+ [q](https://github.com/kriskowal/q)
-
-###### Stream
-+ http://www.sitepoint.com/basics-node-js-streams/
-
-+ http://ejohn.org/blog/node-js-stream-playground/
- 
-+ https://github.com/substack/stream-handbook
-
-###### Parse
-
-+ http://www.jonathanbroquist.com/integrating-parse-data-with-ng-model-in-angularjs/
-
-+ http://tumba.solutions/blog/angularjs-and-parse
-
-+ http://code.tutsplus.com/tutorials/getting-started-with-parse--net-28000
-
-+ http://coenraets.org/blog/2013/04/sample-app-storing-your-application-data-in-the-cloud-with-parse-com-and-the-javascript-sdk/
-
-
 ###### AngularJS
 + https://scotch.io/tutorials/angularjs-best-practices-directory-structure
 
