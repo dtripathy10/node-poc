@@ -114,54 +114,6 @@
 
 + https://smacss.com/book/type-state
 
-
-#### Testing
------
-+ http://code.tutsplus.com/tutorials/testing-in-nodejs--net-35018 
-
-
-###### Mochajs
- + https://mochajs.org/
-
- + http://webapplog.com/tdd/
- 
- + https://github.com/mochajs/mocha/wiki
- 
- + https://www.youtube.com/watch?v=Q8Jl85FJz4E&list=PLw5h0DiJ-9PAdZwGJCYb7a9P2mJHayQQ3 
-
-###### chaijs
- + http://chaijs.com/
- 
-###### Selenium
-+ https://github.com/vvo/selenium-standalone
-
-+ https://github.com/webdriverio/webdriverio/
-
-+ http://tlkeith.com/WebDriverIOTutorialTest.html
-
-###### Jasmine
-+ http://jasmine.github.io/
-
-+ http://jasmine.github.io/2.1/node.html
-
-+ http://jasmine.github.io/2.1/introduction.html
- 
-###### Mochajs or Jasmine
-
-+ https://lostechies.com/derickbailey/2012/11/01/javascript-unit-tests-jasmine-vs-mocha/
-
-+ http://thejsguy.com/2015/01/12/jasmine-vs-mocha-chai-and-sinon.html
-
-###### Others
-+ https://github.com/cucumber/cucumber-js
-
-+ https://github.com/ariya/phantomjs
-
-+ https://www.youtube.com/watch?v=OqEcn_6GBDI
-
-+ https://github.com/angular/protractor
-
-
 #### Tooling
 -----
 + http://tooling.github.io/book-of-modern-frontend-tooling/index.html
