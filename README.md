@@ -9,23 +9,6 @@
 
 + http://sailsjs.org/get-started
 
-###### AngularJS
-+ https://scotch.io/tutorials/angularjs-best-practices-directory-structure
-
-+ https://github.com/JeremyMorgan/Angular-Kickstart
-
-+ https://github.com/mgechev/angularjs-style-guide 
-
-+ https://scotch.io/tutorials/node-and-angular-to-do-app-application-organization-and-structure
-
-+ https://scotch.io/tutorials/setting-up-a-mean-stack-single-page-application 
-
-+ http://start.jcolemorrison.com/how-i-setup-angular-node-projects/ 
-
-+ http://www.sitepoint.com/testing-javascript-jasmine-travis-karma/ 
-
-+ http://www.tuesdaydeveloper.com/2013/06/angularjs-testing-with-karma-and-jasmine/
-
 ###### EmberJS
 + http://emberjs.com/
 
